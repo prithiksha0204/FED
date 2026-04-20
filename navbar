@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kfc</title>
+    
+    <link rel="html" href="reg_1.html">
+    <Style>
+        .navbar{
+            background-color: rgb(200, 16, 46);
+        }
+    </Style>
+</head>
+<body style="background-color: orange;color: aliceblue;">
+    <div class="navbar">
+    <img src="download (1).png" width="100px" height="50px">
+    
+    <a href="https://www.swiggy.com/" >swiggy</a>
+
+    <a href="https://www.swiggy.com/terms-and-conditions">terms and conditions</a>
+
+    <a href="https://www.swiggy.com/instamart" >Instamart</a>
+
+    <form action="/search" method="get">
+        <input type="search" name="q" placeholder="Search...">
+        <button type="submit">Search</button>
+    </form>
+
+    </div>
+</body>
+</html>
